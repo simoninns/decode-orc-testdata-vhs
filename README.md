@@ -1,5 +1,5 @@
-# decode-orc-testdata-ld
-A repository of LaserDisc test data for the Decode Orc project - it is intended to be used as a decode-orc git sub-module.
+# decode-orc-testdata-vhs
+A repository of tape test data for the Decode Orc project - it is intended to be used as a decode-orc git sub-module.
 
 ## Overview
 This repository contains vhs-decode test data used for the verification of the decode-orc project with the vhs-decode front-end.
